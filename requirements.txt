@@ -1,0 +1,9 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+speechrecognition==3.10.0
+pyttsx3==2.90
+pyautogui==0.9.54
+pywhatkit==5.4
+requests==2.31.0
+cryptography==41.0.7
